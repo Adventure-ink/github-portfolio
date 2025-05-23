@@ -1,1 +1,6 @@
-
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "minimal"
+theme                    : "minimal"
+title                    : "Shivam Rana"
+...
